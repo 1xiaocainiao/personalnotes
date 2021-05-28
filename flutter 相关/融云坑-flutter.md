@@ -1,0 +1,4 @@
+最近调试接入融云推送，在后台配置好证书，前端加上代码，调试的时候发现用工具pusher能够收到推送，融云自己的死活收不到，排查了各种问题，最后提了工单，得到回复开发环境用 Apple development push的证书才行，且半小时左右生效,之前自己使用的是sandbox&production环境的通用证书，坑死了,换了之后果然好了
+
+flutter 接入原生融云视频通话
+RongCallKit, 因为是flutter项目，im用的flutter，而融云通话用的是im 的userInfoDataSource,所以需要实现userInfoDataSource  RCIMUserInfoDataSource的代理方法，在getUserInfo 里channel到flutter获取用户数据即可

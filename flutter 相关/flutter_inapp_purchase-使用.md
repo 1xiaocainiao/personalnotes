@@ -1,0 +1,1 @@
+根据readme一步步来，但是iOS一次在购买金币这种消耗型购买时,发现返回的购买凭证总是旧的，需要在purchaseUpdated后添加await FlutterInappPurchase.instance.finishTransaction(productItem),这样才对
