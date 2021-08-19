@@ -21,3 +21,8 @@ sudo kextcache -i /
 ```
 今天用到usb2.0的u盘，插上后发现没有反应，所以定制了USB，可以正常读取2.0的u盘了，特别注意加入USBPorts.kext时，如图红色区域，和别的kext是有区别的，否则可能会有一些莫名其妙的问题
 ![image.png](https://upload-images.jianshu.io/upload_images/167849-3f05cdd76acaaed7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
+
