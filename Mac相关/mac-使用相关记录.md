@@ -20,7 +20,7 @@ Apple Configurator 2
 CarTool
 Paste 搭配 https://pasteapp.io/helper 使用
 ImageOptim 图片压缩
-Snipaste 截图
+Snipaste  ishot 截图
 
 
 ##终端
