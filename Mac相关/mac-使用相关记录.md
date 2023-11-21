@@ -13,7 +13,6 @@ Keka
 iStat Menus
 IINA
 GIF Brewery 3
-Cleaner for Xcode
 Drop
 Cleaner for Xcode
 Bob
@@ -23,6 +22,7 @@ Paste 搭配 https://pasteapp.io/helper 使用
 ImageOptim 图片压缩
 Snipaste  ishot 截图
 Symbolicator X   https://github.com/Yueoaix/SymbolicatorX iOS/Mac 项目崩溃文件自动符号化工具.
+JSONExport https://github.com/Ahmed-Ali/JSONExport
 ```
 
 
