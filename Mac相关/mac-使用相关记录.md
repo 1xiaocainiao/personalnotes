@@ -15,7 +15,7 @@ IINA
 GIF Brewery 3
 Drop
 Cleaner for Xcode
-Bob
+Easydict
 Apple Configurator 2
 CarTool
 Paste 搭配 https://pasteapp.io/helper 使用
