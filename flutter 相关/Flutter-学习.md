@@ -80,6 +80,7 @@ zshrc环境 需要添加
 source ~/.bash_profile
 
 source ~/.scripts/zsh-syntax-highlighting/zsh-syntax-highlighting.plugin.zsh // 高亮
+
 zsh-autosuggestions.zsh //历史命令补全
 
 eval "$(thefuck --alias)" //thefuck
