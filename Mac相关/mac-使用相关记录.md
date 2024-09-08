@@ -10,7 +10,7 @@ Transporter
 Navicat Premium
 licecap
 Keka
-iStat Menus
+iStat Menus  或者 stats 开源
 IINA
 GIF Brewery 3
 Drop
