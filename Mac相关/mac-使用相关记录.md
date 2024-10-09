@@ -23,6 +23,7 @@ ImageOptim 图片压缩
 Snipaste  ishot 截图
 Symbolicator X   https://github.com/Yueoaix/SymbolicatorX iOS/Mac 项目崩溃文件自动符号化工具.
 JSONExport https://github.com/Ahmed-Ali/JSONExport
+SwitchHosts  https://github.com/oldj/SwitchHosts
 ```
 
 
