@@ -1,8 +1,6 @@
 ## Xcode12 新建项目 记录
 
 
-[编辑文章](https://www.jianshu.com/writer#/notebooks/345846/notes/90702708)
-
 Xcode 12 新建项目多了SceneDelegate，如果不开发iPadOS多窗口，可以直接删除此文件
 
 1、删除掉info.plist中Application Scene Manifest选项，同时，文件SceneDelegate可删除可不删；
