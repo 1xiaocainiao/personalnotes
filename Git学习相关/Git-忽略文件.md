@@ -1,0 +1,31 @@
+模板
+
+# Xcode
+.DS_Store
+*/build/*
+xcuserdata
+profile
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+*.xcworkspace
+!default.xcworkspace
+
+#CocoaPods
+Pods
+!Podfile
+!Podfile.lock
+
+/.gitignore
+
+.gitignore规则不生效
+.gitignore只能忽略那些原来没有被track的文件，如果某些文件已经被纳入了版本管理中，则修改.gitignore是无效的。
+解决方法就是先把本地缓存删除（改变成未track状态），然后再提交:
+
+命令如下
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+
+
