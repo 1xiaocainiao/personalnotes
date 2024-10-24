@@ -1,6 +1,7 @@
 模板
 
 # Xcode
+build/
 .DS_Store
 */build/*
 xcuserdata
