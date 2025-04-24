@@ -25,6 +25,7 @@ Symbolicator X   https://github.com/Yueoaix/SymbolicatorX iOS/Mac 项目崩溃�
 JSONExport https://github.com/Ahmed-Ali/JSONExport
 SwitchHosts  https://github.com/oldj/SwitchHosts
 PaintCode 矢量设计，可生成代码
+BarTuner https://github.com/s1xu/BarTuner
 ```
 
 
