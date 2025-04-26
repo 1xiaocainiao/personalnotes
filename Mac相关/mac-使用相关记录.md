@@ -26,6 +26,7 @@ JSONExport https://github.com/Ahmed-Ali/JSONExport
 SwitchHosts  https://github.com/oldj/SwitchHosts
 PaintCode 矢量设计，可生成代码
 BarTuner https://github.com/s1xu/BarTuner
+PixPin 长截图
 ```
 
 
