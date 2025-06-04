@@ -18,7 +18,8 @@ Cleaner for Xcode
 Easydict
 Apple Configurator 2
 CarTool
-Paste 搭配 https://pasteapp.io/helper 使用
+Paste 
+PasteN paste的替代
 ImageOptim 图片压缩
 pixpin 截图
 Symbolicator X   https://github.com/Yueoaix/SymbolicatorX iOS/Mac 项目崩溃文件自动符号化工具.
