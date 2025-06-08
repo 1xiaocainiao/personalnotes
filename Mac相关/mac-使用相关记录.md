@@ -31,6 +31,10 @@ PixPin 长截图
 TablePlus https://tableplus.com/ 数据库
 ```
 
+##网络工具
+```
+Bagel https://github.com/yagiz/Bagel/
+```
 
 ##终端
 高亮
