@@ -19,6 +19,7 @@ Easydict
 Apple Configurator 2
 CarTool
 Paste 
+PastePal paste的替代,这个好一些
 PasteN paste的替代
 ImageOptim 图片压缩
 pixpin 截图
