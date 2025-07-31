@@ -34,6 +34,8 @@ PixPin 长截图
 TablePlus https://tableplus.com/ 数据库
 
 AlgerMusicPlayer https://github.com/algerkong/AlgerMusicPlayer
+
+localsend https://github.com/localsend/localsend
 ```
 
 ##网络工具
