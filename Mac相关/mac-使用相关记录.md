@@ -36,6 +36,10 @@ TablePlus https://tableplus.com/ 数据库
 AlgerMusicPlayer https://github.com/algerkong/AlgerMusicPlayer
 
 localsend https://github.com/localsend/localsend
+
+CleanMyKeyboard appstore 清洁键盘锁定
+
+boring.notch https://github.com/TheBoredTeam/boring.notch 刘海增强
 ```
 
 ##网络工具
