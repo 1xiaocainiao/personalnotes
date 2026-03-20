@@ -39,7 +39,9 @@ localsend https://github.com/localsend/localsend
 
 CleanMyKeyboard appstore 清洁键盘锁定
 
-boring.notch https://github.com/TheBoredTeam/boring.notch 刘海增强
+刘海增强
+boring.notch https://github.com/TheBoredTeam/boring.notch 
+Atoll https://github.com/Ebullioscopic/Atoll 个人感觉这个好用些
 ```
 
 ##网络工具
