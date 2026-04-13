@@ -42,6 +42,10 @@ CleanMyKeyboard appstore 清洁键盘锁定
 刘海增强
 boring.notch https://github.com/TheBoredTeam/boring.notch 
 Atoll https://github.com/Ebullioscopic/Atoll 个人感觉这个好用些
+
+mac清理
+https://github.com/momenbasel/PureMac
+mole只有命令行
 ```
 
 ##网络工具
