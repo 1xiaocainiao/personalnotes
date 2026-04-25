@@ -23,8 +23,16 @@ Paste
 PastePal paste的替代,这个好一些
 PasteN paste的替代
 
+apaste https://github.com/AlliotTech/aPaste paste的替代，不过安装后最好看下设置，将固定板中的三个快捷键设置去掉，避免和系统的冲突导致系统快捷键不可用
+
+
 ImageOptim 图片压缩
-pixpin 截图
+
+截图
+pixpin 
+macshot https://github.com/sw33tLie/macshot 习惯将接入快捷键改为pixpin一样，control+1
+
+
 Symbolicator X   https://github.com/Yueoaix/SymbolicatorX iOS/Mac 项目崩溃文件自动符号化工具.
 JSONExport https://github.com/Ahmed-Ali/JSONExport
 SwitchHosts  https://github.com/oldj/SwitchHosts
