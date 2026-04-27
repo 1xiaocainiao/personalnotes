@@ -23,7 +23,7 @@ Paste
 PastePal paste的替代,这个好一些
 PasteN paste的替代
 
-apaste https://github.com/AlliotTech/aPaste paste的替代，不过安装后最好看下设置，将固定板中的三个快捷键设置去掉，避免和系统的冲突导致系统快捷键不可用
+apaste https://github.com/AlliotTech/aPaste paste的替代，不过安装后最好看下设置，将固定板中的三个快捷键设置去掉，避免和系统的冲突导致系统快捷键不可用 0.2.1已修复
 
 
 ImageOptim 图片压缩
