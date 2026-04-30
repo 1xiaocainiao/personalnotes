@@ -54,6 +54,13 @@ Atoll https://github.com/Ebullioscopic/Atoll 个人感觉这个好用些
 mac清理
 https://github.com/momenbasel/PureMac
 mole只有命令行
+
+mac菜单栏图标管理
+不过我感觉用不上，新系统菜单栏可以管理哪个app显示在菜单栏了
+Barbee
+thaw https://github.com/stonerl/Thaw 
+
+
 ```
 
 ##网络工具
