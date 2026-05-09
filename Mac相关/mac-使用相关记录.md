@@ -60,6 +60,9 @@ mac菜单栏图标管理
 Barbee
 thaw https://github.com/stonerl/Thaw 
 
+homebrew GUI管理工具
+WailBrew https://github.com/wickenico/WailBrew
+
 
 ```
 
@@ -82,3 +85,5 @@ big sur系统下，下载了几个非APP Strore的软件，安装后不能运行
 ```
 xattr -r -d com.apple.quarantine /Users/xx/Desktop/Paste.app
 ```
+
+
