@@ -66,6 +66,13 @@ WailBrew https://github.com/wickenico/WailBrew
 
 ```
 
+##视频相关
+```
+https://github.com/HandBrake/HandBrake/releases  可转码
+
+https://github.com/mifi/lossless-cut 可合并
+```
+
 ##网络工具
 ```
 Bagel https://github.com/yagiz/Bagel/
