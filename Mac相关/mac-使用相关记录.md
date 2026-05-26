@@ -63,6 +63,9 @@ thaw https://github.com/stonerl/Thaw
 homebrew GUI管理工具
 WailBrew https://github.com/wickenico/WailBrew
 
+MacTools 菜单栏管理工具集合，现在插件还少，美观
+https://github.com/ggbond268/MacTools
+
 
 ```
 
