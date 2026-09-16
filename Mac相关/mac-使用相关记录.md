@@ -99,4 +99,7 @@ big sur系统下，下载了几个非APP Strore的软件，安装后不能运行
 xattr -r -d com.apple.quarantine /Users/xx/Desktop/Paste.app
 ```
 
-
+##状态栏显示wifi图标，类iphone duo
+```
+https://github.com/lingyired/status-trio
+```
