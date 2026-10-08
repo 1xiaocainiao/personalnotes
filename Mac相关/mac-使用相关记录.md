@@ -12,6 +12,7 @@ licecap
 Keka
 iStat Menus  或者 stats 开源
 IINA
+khua 
 GIF Brewery 3
 Drop
 Cleaner for Xcode
