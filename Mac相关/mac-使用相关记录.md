@@ -1,12 +1,12 @@
 ##mac 登录项软件残留
-···
+```
 ~/Library/LaunchAgents （当前用户）
 
 /Library/LaunchAgents （所有用户）
 
 /Library/LaunchDaemons （系统守护进程）
 分别找上面文件夹下存在的软件的plist文件，删除即可，一般第一个就可以解决
-···
+```
 
 ##常用软件
 ```
